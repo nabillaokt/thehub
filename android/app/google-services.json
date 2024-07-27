@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417385958532",
+    "project_id": "thehub-database-74076",
+    "storage_bucket": "thehub-database-74076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417385958532:android:b47c73248b9bafc4d186d1",
+        "android_client_info": {
+          "package_name": "com.example.thehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsSk6V6yHwyaqVVTqisNrlmgR0lwgEqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
