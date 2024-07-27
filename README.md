@@ -1,16 +1,22 @@
-# thehub
+# THE HUB
+The HUB adalah aplikasi mobile yang dirancang khusus untuk memudahkan proses reservasi lapangan di The HUB Archery Cibubur.
 
-A new Flutter project.
+## Fitur Utama:
+1. Reservasi lapangan
+- Pengguna dapat dengan mudah melihat ketersediaan papan target lapangan panahan.
+- Fitur untuk memilih tanggal, waktu dan target yang diinginkan.
+- Notifikasi otomatis untuk mengingatkan pengguna tentang jadwal reservasi.
+2. Profil Pengguna:
+- Pengguna dapat membuat dan mengelola profil pribadi mereka.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![App Screenshot](./image/2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](./image/3.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](./image/4.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](./image/5.jpg)
+
+![App Screenshot](./image/5.jpg)
