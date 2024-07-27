@@ -1,22 +1,29 @@
 # THE HUB
 The HUB adalah aplikasi mobile yang dirancang khusus untuk memudahkan proses reservasi lapangan di The HUB Archery Cibubur.
 
-## Fitur Utama:
-1. Reservasi lapangan
-- Pengguna dapat dengan mudah melihat ketersediaan papan target lapangan panahan.
-- Fitur untuk memilih tanggal, waktu dan target yang diinginkan.
-- Notifikasi otomatis untuk mengingatkan pengguna tentang jadwal reservasi.
-2. Profil Pengguna:
-- Pengguna dapat membuat dan mengelola profil pribadi mereka.
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
 ## Screenshots
 
-![App Screenshot](./image/2.jpg)
+<img src="./image/1.jpg" alt="App Screenshot" width="100"> <img src="./image/2.jpg" alt="App Screenshot" width="100"> <img src="./image/5.jpg" alt="App Screenshot" width="100"> 
+<img src="./image/7.jpg" alt="App Screenshot" width="100"> <img src="./image/3.jpg" alt="App Screenshot" width="100"> <img src="./image/4.jpg" alt="App Screenshot" width="100">
 
-![App Screenshot](./image/3.jpg)
 
-![App Screenshot](./image/4.jpg)
 
-![App Screenshot](./image/5.jpg)
 
-![App Screenshot](./image/5.jpg)
+## Authors
+
+- [@nabillaokt](https://github.com/nabillaokt)
+
+
+## Feedback
+
+Jika Anda memiliki pertanyaan, silakan email ke nabillaoktvni08@gmail.com
